@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const config = require('./common-files.config.js');
 const copyCore = require('./app.js');
 
