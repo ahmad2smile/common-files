@@ -1,10 +1,23 @@
 {
   "name": "common-files",
   "version": "0.0.5",
+  "description": "Node Package to setup a common file folder and copy files like .gitignore from there to your current directory",
   "main": "index.js",
   "bin":{
     "common-files": "index.js"
   },
   "license": "MIT",
-  "author": "Shafiq Ahmad"
+  "author": "Shafiq Ahmad <ahmad2smile@gmail.com>",
+  "homepage": "https://github.com/ahmad2smile/common-files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmad2smile/common-files.git"
+  },
+  "keywords": [
+    "copy-files",
+    ".gitignore",
+    "config-files",
+    "common-files",
+    "common-includes"
+  ]
 }
